@@ -1,0 +1,13 @@
+.cards-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 60px;
+    max-width: 820px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.same-size {
+    width: 360px;
+    height: 420px;
+}
