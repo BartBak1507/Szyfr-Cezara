@@ -39,7 +39,7 @@ Użytkownik może wpisać dowolny tekst oraz podać klucz (liczbę przesunięcia
 
 ## ▶️ Jak uruchomić projekt
 
-1. Sklonuj repozytorium:
+1. Sklonuj repozytorium.
 
 2. Otwórz plik `index.html` w przeglądarce.
 
